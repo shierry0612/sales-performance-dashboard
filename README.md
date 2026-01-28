@@ -20,4 +20,5 @@ Build an interactive Power BI dashboard to monitor sales performance and support
 - Data cleaning and validation
 
 ## Dashboard Preview
-![Dashboard](image/dashboard_preview.jpg)
+![Dashboard](./images/dashboard_preview.jpg)
+
